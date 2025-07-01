@@ -2,17 +2,22 @@
 
 👉 [Clique aqui para acessar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk3ODVmNmEtN2EzMy00ZmQ3LThmOGYtMGY1OTJjZGI2MGJmIiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
 
-🧾 Descrição Geral
+# 🧾 Descrição Geral
 
 Este dashboard foi desenvolvido no Power BI com o objetivo de monitorar e analisar o desempenho da produção ao longo do ano. Ele apresenta uma visão consolidada dos principais indicadores de produtividade, qualidade, tempo de operação e ocorrências no processo produtivo.
 
 # 🎯 Objetivos
 
 • Acompanhar a produção mensal ao longo do tempo;
+
 • Identificar operadores com maior volume aprovado;
+
 • Monitorar produtividade e qualidade;
+
 • Detectar as principais causas de paradas e rejeições;
+
 • Auxiliar na tomada de decisões para otimização do processo.
+
 
 O dashboard permite uma visualização clara e dinâmica dos dados de produção, auxiliando na tomada de decisões estratégicas, identificação de gargalos e oportunidades de melhoria nos processos produtivos.
 
@@ -20,9 +25,13 @@ O dashboard permite uma visualização clara e dinâmica dos dados de produção
 
 Visão Geral (Top Cards)
 • Total aprovado: 3.061.947 — representa a quantidade de peças ou produtos aprovados ao longo do período.
+
 • Total rejeitado: 20.714 — itens que não passaram no controle de qualidade.
+
 • Horas produtivas: 30.671 — tempo efetivamente utilizado na produção.
+
 • Horas paradas: 8.694 — tempo em que as máquinas estavam paradas ou sem produção.
+
 
 🔎 A relação entre horas produtivas e horas paradas indica o aproveitamento operacional da planta.
 
