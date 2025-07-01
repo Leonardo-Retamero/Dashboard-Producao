@@ -1,6 +1,6 @@
-# 📊 Dashboard de Producao
-
-👉 [Clique aqui para acessar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk3ODVmNmEtN2EzMy00ZmQ3LThmOGYtMGY1OTJjZGI2MGJmIiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
+markdown
+### 🔗 Acesse o Dashboard
+[👉 Clique aqui para visualizar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk3ODVmNmEtN2EzMy00ZmQ3LThmOGYtMGY1OTJjZGI2MGJmIiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
 
 # 🧾 Descrição Geral
 
@@ -24,6 +24,7 @@ O dashboard permite uma visualização clara e dinâmica dos dados de produção
 # 🔍 Análise dos Indicadores
 
 Visão Geral (Top Cards)
+
 • Total aprovado: 3.061.947 — representa a quantidade de peças ou produtos aprovados ao longo do período.
 
 • Total rejeitado: 20.714 — itens que não passaram no controle de qualidade.
