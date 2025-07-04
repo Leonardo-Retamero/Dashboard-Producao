@@ -48,10 +48,10 @@ Já a partir do segundo trimestre, percebe-se uma melhora na eficiência operaci
 
 Controle de qualidade 
 
-(https://github.com/user-attachments/assets/5734d4e3-88ee-4699-96c9-2394d3163420)
+![Controle de qualidade](https://github.com/user-attachments/assets/5734d4e3-88ee-4699-96c9-2394d3163420)
 
 Preparação de máquina
 
-(https://github.com/user-attachments/assets/01e5044d-05f1-46c9-98e9-6df9bc06c831)
+![Preparação de máquina](https://github.com/user-attachments/assets/01e5044d-05f1-46c9-98e9-6df9bc06c831)
 
 
