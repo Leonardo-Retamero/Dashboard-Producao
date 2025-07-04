@@ -36,7 +36,7 @@ Visão Geral (Top Cards)
 
 🔎 A relação entre horas produtivas e horas paradas indica o aproveitamento operacional da planta.
 
-# 📈 Análise Trimestral da Produção e da Produtividade
+# 📈 Análise da Produção e da Produtividade
 
 No primeiro e segundo trimestres do ano, foi possível observar um alto volume de produção, com todos os meses apresentando valores acima de 260 mil unidades aprovadas, exceto março, que ficou ligeiramente abaixo desse patamar.
 
@@ -44,3 +44,9 @@ Além disso, notou-se uma evolução significativa nas horas produtivas em compa
 Durante o primeiro trimestre, houve uma certa correlação entre os dois indicadores, com diversos dias em que o tempo de parada foi igual ou até superior ao tempo produtivo.
 
 Já a partir do segundo trimestre, percebe-se uma melhora na eficiência operacional, com maior estabilidade nas horas produtivas. As horas paradas só superaram as produtivas em 3 dias ao longo de 3 meses distintos, evidenciando uma tendência positiva de aproveitamento dos recursos.
+
+![Janeiro - Horas produtivas x Horas paradas](https://github.com/user-attachments/assets/1ba4be6a-8ebb-44f7-8e81-629b01413a66)
+
+
+
+
