@@ -43,10 +43,4 @@ No primeiro e segundo trimestres do ano, foi possível observar um alto volume d
 Além disso, notou-se uma evolução significativa nas horas produtivas em comparação com as horas paradas.
 Durante o primeiro trimestre, houve uma certa correlação entre os dois indicadores, com diversos dias em que o tempo de parada foi igual ou até superior ao tempo produtivo.
 
-Já a partir do segundo trimestre, percebe-se uma melhora na eficiência operacional, com maior estabilidade nas horas produtivas. As horas paradas só superaram as produtivas em 3 dias ao longo de 3 meses distintos, evidenciando uma tendência positiva de aproveitamento dos recursos.
-
-![Janeiro - Horas produtivas x Horas paradas](https://github.com/user-attachments/assets/1ba4be6a-8ebb-44f7-8e81-629b01413a66)
-
-
-
-
+Já a partir do segundo trimestre, percebe-se uma melhora na eficiência operacional, com maior estabilidade nas horas produtivas. As horas paradas só superaram as produtivas em 3 dias ao longo de 3 meses distintos, evidenciando uma tendência positiva de aproveitamento dos recursos. Essa é uma análise das horas produtivas e paradas por dia durante um mês em específico, mas no geral em todos os meses houve mais horas produtivas do que paradas.
