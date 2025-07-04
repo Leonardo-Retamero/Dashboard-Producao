@@ -44,3 +44,14 @@ Além disso, notou-se uma evolução significativa nas horas produtivas em compa
 Durante o primeiro trimestre, houve uma certa correlação entre os dois indicadores, com diversos dias em que o tempo de parada foi igual ou até superior ao tempo produtivo.
 
 Já a partir do segundo trimestre, percebe-se uma melhora na eficiência operacional, com maior estabilidade nas horas produtivas. As horas paradas só superaram as produtivas em 3 dias ao longo de 3 meses distintos, evidenciando uma tendência positiva de aproveitamento dos recursos. Essa é uma análise das horas produtivas e paradas por dia durante um mês em específico, mas no geral em todos os meses houve mais horas produtivas do que paradas.
+
+
+Controle de qualidade 
+
+(https://github.com/user-attachments/assets/5734d4e3-88ee-4699-96c9-2394d3163420)
+
+Preparação de máquina
+
+(https://github.com/user-attachments/assets/01e5044d-05f1-46c9-98e9-6df9bc06c831)
+
+
