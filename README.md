@@ -1,4 +1,3 @@
-markdown
 ### 🔗 Acesse o Dashboard
 [👉 Clique aqui para visualizar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk3ODVmNmEtN2EzMy00ZmQ3LThmOGYtMGY1OTJjZGI2MGJmIiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
 
@@ -53,5 +52,7 @@ Controle de qualidade
 Preparação de máquina
 
 ![Preparação de máquina](https://github.com/user-attachments/assets/01e5044d-05f1-46c9-98e9-6df9bc06c831)
+
+Os 2 gráficos mostra os 2 maiores tipos de ocorrências. Observe a diminuição das ocorrências ao longo do ano, isso evidência uma melhora no desempenho operacional e na qualidade. Incidentes anteriores foram bem analisados e mitigados com soluções eficazes ocorrendo menos erros ou falhas em ambiente de produção. 
 
 
