@@ -36,9 +36,9 @@ Visão Geral (Top Cards)
 
 • Horas paradas: 8.694 — tempo em que as máquinas estavam paradas ou sem produção.
 
----
-
 🔎 A relação entre horas produtivas e horas paradas indica o aproveitamento operacional da planta.
+
+---
 
 ### 📈 Análise da Produção e da Produtividade
 
