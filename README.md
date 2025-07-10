@@ -1,11 +1,11 @@
 ### 🔗 Acesse o Dashboard
 [👉 Clique aqui para visualizar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk3ODVmNmEtN2EzMy00ZmQ3LThmOGYtMGY1OTJjZGI2MGJmIiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
 
-# 🧾 Descrição Geral
+### 🧾 Descrição Geral
 
 Este dashboard foi desenvolvido no Power BI com o objetivo de monitorar e analisar o desempenho da produção ao longo do ano. Ele apresenta uma visão consolidada dos principais indicadores de produtividade, qualidade, tempo de operação e ocorrências no processo produtivo.
 
-# 🎯 Objetivos
+### 🎯 Objetivos
 
 • Acompanhar a produção mensal ao longo do tempo;
 
@@ -20,7 +20,7 @@ Este dashboard foi desenvolvido no Power BI com o objetivo de monitorar e analis
 
 O dashboard permite uma visualização clara e dinâmica dos dados de produção, auxiliando na tomada de decisões estratégicas, identificação de gargalos e oportunidades de melhoria nos processos produtivos.
 
-# 🔍 Análise dos Indicadores
+### 🔍 Análise dos Indicadores
 
 Visão Geral (Top Cards)
 
@@ -35,7 +35,7 @@ Visão Geral (Top Cards)
 
 🔎 A relação entre horas produtivas e horas paradas indica o aproveitamento operacional da planta.
 
-# 📈 Análise da Produção e da Produtividade
+### 📈 Análise da Produção e da Produtividade
 
 No primeiro e segundo trimestres do ano, foi possível observar um alto volume de produção, com todos os meses apresentando valores acima de 260 mil unidades aprovadas, exceto março, que ficou ligeiramente abaixo desse patamar.
 
