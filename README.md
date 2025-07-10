@@ -5,6 +5,8 @@
 
 Este dashboard foi desenvolvido no Power BI com o objetivo de monitorar e analisar o desempenho da produção ao longo do ano. Ele apresenta uma visão consolidada dos principais indicadores de produtividade, qualidade, tempo de operação e ocorrências no processo produtivo.
 
+---
+
 ### 🎯 Objetivos
 
 • Acompanhar a produção mensal ao longo do tempo;
@@ -20,6 +22,8 @@ Este dashboard foi desenvolvido no Power BI com o objetivo de monitorar e analis
 
 O dashboard permite uma visualização clara e dinâmica dos dados de produção, auxiliando na tomada de decisões estratégicas, identificação de gargalos e oportunidades de melhoria nos processos produtivos.
 
+---
+
 ### 🔍 Análise dos Indicadores
 
 Visão Geral (Top Cards)
@@ -32,6 +36,7 @@ Visão Geral (Top Cards)
 
 • Horas paradas: 8.694 — tempo em que as máquinas estavam paradas ou sem produção.
 
+---
 
 🔎 A relação entre horas produtivas e horas paradas indica o aproveitamento operacional da planta.
 
